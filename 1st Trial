@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Test site</title>
+</head>
+
+<body>
+<h1><b> Título 1 </b></h1>
+This is just a trial site: <br>
+don´t look further
+
+<h2><b> Subtítulo 1.1 </b></h2>
+Told you, you are <i>wasting</i> your time...
+<p>Esto es solo para ver a que se refiere con <i>"comportamiento de párrafo"</i></p>
+
+<h1> Título 2</h1>
+<ul>
+<li>Deja</li>
+<li>de</li>
+<li>perder</li>
+<li>el</li>
+<li><b>TIEMPO</b></li>
+
+<h2><b>Subtítulo 2.1</b></h2>
+You loosing your time looking at this: 
+
+<p><img src="https://www.latercera.com/resizer/uVB1aoMxXbHkUDdC4nqZljMLw5w=/arc-anglerfish-arc2-prod-copesa/public/6FUZ7URU7FG3XG54VYJKBXSNWM.jpg"/></p>
+
+<h1><b>Título 3</b></h1>
+<table>
+<tr><th>Tiempo perdido</th><th>Trauma asociado</th></tr>
+<tr><td>5 min</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ligero aburrimiento</td></tr>
+<tr><td>30 min</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estás muy solo</td></tr>
+<tr><td>2 horas</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Todos los traumas: busca ayuda</td></tr>
+</table>
+
+
+
+
+</body>
+
+</html>
