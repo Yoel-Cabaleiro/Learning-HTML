@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <h1><b>Horario</b></h1>
+  <table>
+    <tr>
+      <th>Lunes</th>
+      <th>Martes</th>
+      <th>Miércoles</th>
+      <th>Jueves</th>
+      <th>Viernes</th>
+    </tr>
+    <tr>
+      <td>Libre</td>
+      <td>Libre</td>
+      <td>Libre</td>
+      <td>Libre</td>
+      <td>Libre</td>
+    </tr>
+    <tr>
+      <td>Libre</td>
+      <td>Libre</td>
+      <td>Libre</td>
+      <td>Libre</td>
+      <td>Libre</td>
+    </tr>
+    <tr>
+      <td id="clase">Clase</td>
+      <td>Libre</td>
+      <td id="clase">Clase</td>
+      <td>Libre</td>
+      <td id="clase">Clase</td>
+    </tr>
+  </table>
+
+</html>
+
+#CSS
+
+h1 {
+  background: green;
+  text-decoration: underline;
+  text-align: center;
+}
+
+
+table {
+  width: 100%;
+  line-height: 3;
+}
+
+table th {
+  background: yellow;
+  }
+
+table td {
+  text-align: center;
+}
+
+#clase {
+  background: purple;
+}
+
